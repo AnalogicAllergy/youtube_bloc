@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![youtube_bloc.gif]
+![FlutterTube](youtube_bloc.gif)
