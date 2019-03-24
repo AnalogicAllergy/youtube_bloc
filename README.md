@@ -1,5 +1,6 @@
 # youtube_bloc
 
-A new Flutter project.
+An youtube minimalist UI with only play and favorite features.
+Build with BLoC Pattern
 
 ![FlutterTube](youtube_bloc.gif)
